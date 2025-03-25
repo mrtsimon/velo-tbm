@@ -1,0 +1,5101 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5843699,
+                              44.8380299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 1,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 1,
+                        "type": "VLS",
+                        "nom": "Meriadeck",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 27,
+                        "nbelec": 10,
+                        "nbclassiq": 17,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.59028,
+                              44.8378399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 2,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 2,
+                        "type": "VLS",
+                        "nom": "St Bruno",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 17,
+                        "nbelec": 6,
+                        "nbclassiq": 11,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.593233,
+                              44.8408129
+                        ]
+                  },
+                  "properties": {
+                        "gid": 3,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 3,
+                        "type": "VLS",
+                        "nom": "Piscine Judaique",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 18,
+                        "nbvelos": 8,
+                        "nbelec": 5,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-04-20T02:19:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5848199,
+                              44.8422099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 4,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 4,
+                        "type": "VLS",
+                        "nom": "St Seurin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.581124,
+                              44.8407119
+                        ]
+                  },
+                  "properties": {
+                        "gid": 5,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 5,
+                        "type": "VLS",
+                        "nom": "Place Gambetta",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 22,
+                        "nbvelos": 18,
+                        "nbelec": 8,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58211,
+                              44.8359399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 7,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 7,
+                        "type": "VLS",
+                        "nom": "Palais de Justice",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 12,
+                        "nbelec": 3,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.59289,
+                              44.8330299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 9,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 9,
+                        "type": "VLS",
+                        "nom": "Gavinies",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5986799,
+                              44.8317599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 10,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 10,
+                        "type": "VLS",
+                        "nom": "Stade Chaban Delmas",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 12,
+                        "nbelec": 4,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5997,
+                              44.8416599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 11,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 11,
+                        "type": "VLS",
+                        "nom": "Cite Administrative",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 14,
+                        "nbelec": 4,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6086099,
+                              44.8511499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 12,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 12,
+                        "type": "VLS",
+                        "nom": "Grand Lebrun ",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 7,
+                        "nbelec": 7,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5981,
+                              44.8483699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 13,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 13,
+                        "type": "VLS",
+                        "nom": "Barriere St Medard",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 15,
+                        "nbelec": 5,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.59197,
+                              44.8481899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 14,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 14,
+                        "type": "VLS",
+                        "nom": "Dubreuil Turenne",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 20,
+                        "nbvelos": 10,
+                        "nbelec": 4,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.588766,
+                              44.8441949
+                        ]
+                  },
+                  "properties": {
+                        "gid": 15,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 15,
+                        "type": "VLS",
+                        "nom": "Capdeville",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 10,
+                        "nbelec": 3,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-05-04T02:19:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5452499,
+                              44.8494699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 16,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 16,
+                        "type": "VLS",
+                        "nom": "Galin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 21,
+                        "nbelec": 5,
+                        "nbclassiq": 16,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5821899,
+                              44.8468999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 17,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 17,
+                        "type": "VLS",
+                        "nom": "Palais Gallien",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 7,
+                        "nbelec": 4,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58164,
+                              44.8442299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 18,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 18,
+                        "type": "VLS",
+                        "nom": "Huguerie",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 10,
+                        "nbelec": 3,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5774499,
+                              44.8446499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 19,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 19,
+                        "type": "VLS",
+                        "nom": "Place Tourny",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 18,
+                        "nbvelos": 12,
+                        "nbelec": 1,
+                        "nbclassiq": 11,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57724,
+                              44.8431399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 20,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 20,
+                        "type": "VLS",
+                        "nom": "Grands Hommes",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 14,
+                        "nbelec": 6,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5755999,
+                              44.8412199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 21,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 21,
+                        "type": "VLS",
+                        "nom": "Puy Paulin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 9,
+                        "nbelec": 6,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57648,
+                              44.8382599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 22,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 22,
+                        "type": "VLS",
+                        "nom": "Hotel de Ville",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 27,
+                        "nbelec": 6,
+                        "nbclassiq": 21,
+                        "insee": "33063",
+                        "cdate": "2024-07-17T02:19:00+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5801899,
+                              44.8348299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 23,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 23,
+                        "type": "VLS",
+                        "nom": "Republique",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 32,
+                        "nbelec": 9,
+                        "nbclassiq": 23,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58308,
+                              44.8332499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 24,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 24,
+                        "type": "VLS",
+                        "nom": "Liberation",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 7,
+                        "nbelec": 4,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5873399,
+                              44.8309999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 25,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 25,
+                        "type": "VLS",
+                        "nom": "Francois de Sourdis",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 5,
+                        "nbelec": 0,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5934899,
+                              44.8279699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 26,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 26,
+                        "type": "VLS",
+                        "nom": "Xaintrailles",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 8,
+                        "nbelec": 2,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.60184,
+                              44.8265399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 27,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 27,
+                        "type": "VLS",
+                        "nom": "Bordeaux II",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 17,
+                        "nbelec": 10,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6035099,
+                              44.8298599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 28,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 28,
+                        "type": "VLS",
+                        "nom": "Hopital Pellegrin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 13,
+                        "nbelec": 8,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.60997,
+                              44.8327359
+                        ]
+                  },
+                  "properties": {
+                        "gid": 29,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 29,
+                        "type": "VLS",
+                        "nom": "St Augustin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 13,
+                        "nbelec": 10,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6168899,
+                              44.8383799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 30,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 30,
+                        "type": "VLS",
+                        "nom": "Place Mondesir",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 12,
+                        "nbelec": 1,
+                        "nbclassiq": 11,
+                        "insee": "33281",
+                        "cdate": "2024-04-13T02:21:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.61438,
+                              44.8517499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 31,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 31,
+                        "type": "VLS",
+                        "nom": "Cauderan",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 3,
+                        "nbelec": 2,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5992299,
+                              44.8526099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 32,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 32,
+                        "type": "VLS",
+                        "nom": "Parc Bordelais",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 7,
+                        "nbelec": 2,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5931279,
+                              44.8540919
+                        ]
+                  },
+                  "properties": {
+                        "gid": 33,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 33,
+                        "type": "VLS",
+                        "nom": "Barriere du Medoc",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 12,
+                        "nbelec": 9,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-04-20T02:19:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58864,
+                              44.8537899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 34,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 34,
+                        "type": "VLS",
+                        "nom": "Tivoli",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 4,
+                        "nbelec": 3,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58547,
+                              44.8500499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 35,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 35,
+                        "type": "VLS",
+                        "nom": "Croix de Seguey",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 8,
+                        "nbelec": 3,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5819999,
+                              44.8500499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 36,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 36,
+                        "type": "VLS",
+                        "nom": "Place de Longchamps",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 10,
+                        "nbelec": 2,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57581,
+                              44.8484899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 37,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 37,
+                        "type": "VLS",
+                        "nom": "Jardin Public",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 15,
+                        "nbelec": 8,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5801999,
+                              44.8464099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 38,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 38,
+                        "type": "VLS",
+                        "nom": "Fondaudege Museum",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 6,
+                        "nbelec": 5,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57434,
+                              44.8442299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 39,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 39,
+                        "type": "VLS",
+                        "nom": "Quinconces",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 38,
+                        "nbvelos": 26,
+                        "nbelec": 13,
+                        "nbclassiq": 13,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5739,
+                              44.8429299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 40,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 40,
+                        "type": "VLS",
+                        "nom": "Grand Theatre",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 0,
+                        "nbvelos": 20,
+                        "nbelec": 8,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5746599,
+                              44.8388899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 41,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 41,
+                        "type": "VLS",
+                        "nom": "Place St Projet",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 14,
+                        "nbelec": 10,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5720299,
+                              44.8392399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 42,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 42,
+                        "type": "VLS",
+                        "nom": "Camille Jullian",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 9,
+                        "nbelec": 9,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57279,
+                              44.8370699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 43,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 43,
+                        "type": "VLS",
+                        "nom": "St Paul",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 9,
+                        "nbelec": 1,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57695,
+                              44.8331199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 45,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 45,
+                        "type": "VLS",
+                        "nom": "Place Ste Eulalie",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 12,
+                        "nbelec": 8,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5529299,
+                              44.8228029
+                        ]
+                  },
+                  "properties": {
+                        "gid": 46,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 46,
+                        "type": "VLS",
+                        "nom": "Belcier Tram",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 18,
+                        "nbelec": 9,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5860499,
+                              44.8278899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 47,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 47,
+                        "type": "VLS",
+                        "nom": "Magendie",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 8,
+                        "nbelec": 6,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58975,
+                              44.8257799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 48,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 48,
+                        "type": "VLS",
+                        "nom": "Barriere de Pessac",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 8,
+                        "nbelec": 4,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5999499,
+                              44.8632899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 49,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 49,
+                        "type": "VLS",
+                        "nom": "Emile Zola",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 13,
+                        "nbelec": 5,
+                        "nbclassiq": 8,
+                        "insee": "33069",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5887599,
+                              44.8599899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 50,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 50,
+                        "type": "VLS",
+                        "nom": "Mandron Godard",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5832471,
+                              44.8625593
+                        ]
+                  },
+                  "properties": {
+                        "gid": 51,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 51,
+                        "type": "VLS",
+                        "nom": "Place Ampere",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 17,
+                        "nbelec": 7,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.581327,
+                              44.8589019
+                        ]
+                  },
+                  "properties": {
+                        "gid": 52,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 52,
+                        "type": "VLS",
+                        "nom": "Place de l'Europe",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 12,
+                        "nbelec": 5,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5865899,
+                              44.8541699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 53,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 53,
+                        "type": "VLS",
+                        "nom": "Parc Riviere",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 4,
+                        "nbelec": 3,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5573199,
+                              44.8264199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 54,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 54,
+                        "type": "VLS",
+                        "nom": "Rue St Vincent de Paul",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 42,
+                        "nbvelos": 2,
+                        "nbelec": 2,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5743499,
+                              44.8546199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 55,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 55,
+                        "type": "VLS",
+                        "nom": "Camille Godard",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 13,
+                        "nbelec": 5,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5742699,
+                              44.8517099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 56,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 56,
+                        "type": "VLS",
+                        "nom": "Place Paul Doumer",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 16,
+                        "nbelec": 8,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5716299,
+                              44.8515499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 57,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 57,
+                        "type": "VLS",
+                        "nom": "Eglise St Louis",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 20,
+                        "nbelec": 6,
+                        "nbclassiq": 14,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56727,
+                              44.8532099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 58,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 58,
+                        "type": "VLS",
+                        "nom": "Chartrons",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 15,
+                        "nbelec": 3,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57024,
+                              44.8497799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 59,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 59,
+                        "type": "VLS",
+                        "nom": "CAPC",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 9,
+                        "nbelec": 4,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57131,
+                              44.8471799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 60,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 60,
+                        "type": "VLS",
+                        "nom": "Allees de Chartres",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 10,
+                        "nbelec": 6,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56495,
+                              44.8462499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 61,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 61,
+                        "type": "VLS",
+                        "nom": "Parc aux Angeliques",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 7,
+                        "nbelec": 0,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.533983,
+                              44.8564759
+                        ]
+                  },
+                  "properties": {
+                        "gid": 62,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 62,
+                        "type": "VLS",
+                        "nom": "Cenon Gare",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 23,
+                        "nbvelos": 4,
+                        "nbelec": 0,
+                        "nbclassiq": 4,
+                        "insee": "33119",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5269699,
+                              44.8302799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 63,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 63,
+                        "type": "VLS",
+                        "nom": "Francois Mitterrand",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 7,
+                        "nbelec": 0,
+                        "nbclassiq": 7,
+                        "insee": "33167",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55955,
+                              44.8403399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 65,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 65,
+                        "type": "VLS",
+                        "nom": "Stalingrad",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 48,
+                        "nbvelos": 7,
+                        "nbelec": 2,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-09-28T01:42:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56224,
+                              44.8411399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 66,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 66,
+                        "type": "VLS",
+                        "nom": "Gare d'Orleans",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 18,
+                        "nbelec": 2,
+                        "nbclassiq": 16,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55751,
+                              44.8437699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 67,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 67,
+                        "type": "VLS",
+                        "nom": "Allee de Serr Abadie",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 14,
+                        "nbelec": 11,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-08-01T02:20:00+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5557299,
+                              44.8429799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 68,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 68,
+                        "type": "VLS",
+                        "nom": "Jardin Botanique",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 8,
+                        "nbelec": 1,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5503599,
+                              44.8429899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 69,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 69,
+                        "type": "VLS",
+                        "nom": "Cours Le Rouzic",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 7,
+                        "nbelec": 1,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5241999,
+                              44.8642799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 70,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 70,
+                        "type": "VLS",
+                        "nom": "Buttiniere",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 16,
+                        "nbelec": 2,
+                        "nbclassiq": 14,
+                        "insee": "33249",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.51282,
+                              44.8541799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 72,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 72,
+                        "type": "VLS",
+                        "nom": "Jean Zay",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 23,
+                        "nbvelos": 0,
+                        "nbelec": 0,
+                        "nbclassiq": 0,
+                        "insee": "33119",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5509009,
+                              44.8150829
+                        ]
+                  },
+                  "properties": {
+                        "gid": 73,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 73,
+                        "type": "VLS",
+                        "nom": "Terres Neuves",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 13,
+                        "nbelec": 3,
+                        "nbclassiq": 10,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5482099,
+                              44.8076999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 74,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 74,
+                        "type": "VLS",
+                        "nom": "Place du 14 juillet",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 10,
+                        "nbelec": 3,
+                        "nbclassiq": 7,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.560024,
+                              44.8077349
+                        ]
+                  },
+                  "properties": {
+                        "gid": 75,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 75,
+                        "type": "VLS",
+                        "nom": "Begles Poste",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 10,
+                        "nbelec": 8,
+                        "nbclassiq": 2,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.566207,
+                              44.7817419
+                        ]
+                  },
+                  "properties": {
+                        "gid": 76,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 76,
+                        "type": "VLS",
+                        "nom": "Pont de la Maye",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 19,
+                        "nbvelos": 2,
+                        "nbelec": 0,
+                        "nbclassiq": 2,
+                        "insee": "33550",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5506839,
+                              44.8550669
+                        ]
+                  },
+                  "properties": {
+                        "gid": 77,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 77,
+                        "type": "VLS",
+                        "nom": "Brazza",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 17,
+                        "nbvelos": 3,
+                        "nbelec": 2,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-09-28T01:42:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6350511,
+                              44.7939142
+                        ]
+                  },
+                  "properties": {
+                        "gid": 78,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 78,
+                        "type": "VLS",
+                        "nom": "Bougnard",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 5,
+                        "nbelec": 4,
+                        "nbclassiq": 1,
+                        "insee": "33318",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6576319,
+                              44.7931899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 80,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 80,
+                        "type": "VLS",
+                        "nom": "Gare Pessac Alouette",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 5,
+                        "nbelec": 4,
+                        "nbclassiq": 1,
+                        "insee": "33318",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5594535,
+                              44.8507733
+                        ]
+                  },
+                  "properties": {
+                        "gid": 79,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 79,
+                        "type": "VLS",
+                        "nom": "Niel",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 18,
+                        "nbvelos": 2,
+                        "nbelec": 2,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.646629,
+                              44.7929149
+                        ]
+                  },
+                  "properties": {
+                        "gid": 82,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 82,
+                        "type": "VLS",
+                        "nom": "La Chataigneraie",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 3,
+                        "nbelec": 3,
+                        "nbclassiq": 0,
+                        "insee": "33318",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.63267,
+                              44.8044599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 83,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 83,
+                        "type": "VLS",
+                        "nom": "Pessac Centre",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 5,
+                        "nbelec": 3,
+                        "nbclassiq": 2,
+                        "insee": "33318",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.63444,
+                              44.8153499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 84,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 84,
+                        "type": "VLS",
+                        "nom": "Le Burck",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 4,
+                        "nbelec": 2,
+                        "nbclassiq": 2,
+                        "insee": "33281",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.64594,
+                              44.8324199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 85,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 85,
+                        "type": "VLS",
+                        "nom": "Merignac Quatre Chemins",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 5,
+                        "nbelec": 1,
+                        "nbclassiq": 4,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.654779,
+                              44.8319169
+                        ]
+                  },
+                  "properties": {
+                        "gid": 86,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 86,
+                        "type": "VLS",
+                        "nom": "Merignac Soleil",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 3,
+                        "nbelec": 1,
+                        "nbclassiq": 2,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5537409,
+                              44.8467999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 81,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 81,
+                        "type": "VLS",
+                        "nom": "Archives",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-04-23T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.64475,
+                              44.8509699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 88,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 88,
+                        "type": "VLS",
+                        "nom": "Merignac Capeyron",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 18,
+                        "nbvelos": 0,
+                        "nbelec": 0,
+                        "nbclassiq": 0,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6464649,
+                              44.8415999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 89,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 89,
+                        "type": "VLS",
+                        "nom": "Merignac Centre",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 14,
+                        "nbelec": 6,
+                        "nbclassiq": 8,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.62577,
+                              44.8264999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 90,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 90,
+                        "type": "VLS",
+                        "nom": "Fontaine d'Arlac",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 14,
+                        "nbelec": 9,
+                        "nbclassiq": 5,
+                        "insee": "33281",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.550811,
+                              44.8460865
+                        ]
+                  },
+                  "properties": {
+                        "gid": 87,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 87,
+                        "type": "VLS",
+                        "nom": "Thiers Benauge",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 12,
+                        "nbelec": 5,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-09-28T01:42:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.636207,
+                              44.8690259
+                        ]
+                  },
+                  "properties": {
+                        "gid": 93,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 93,
+                        "type": "VLS",
+                        "nom": "Place Florale",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 5,
+                        "nbelec": 3,
+                        "nbclassiq": 2,
+                        "insee": "33162",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5517739,
+                              44.8387679
+                        ]
+                  },
+                  "properties": {
+                        "gid": 92,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 92,
+                        "type": "VLS",
+                        "nom": "Promis",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 7,
+                        "nbelec": 2,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-09-28T01:42:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6133699,
+                              44.8814499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 95,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 95,
+                        "type": "VLS",
+                        "nom": "Bruges Hotel de Ville",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 3,
+                        "nbelec": 3,
+                        "nbclassiq": 0,
+                        "insee": "33075",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5576629,
+                              44.8240069
+                        ]
+                  },
+                  "properties": {
+                        "gid": 97,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 97,
+                        "type": "VLS",
+                        "nom": "Pont du Guit",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 13,
+                        "nbelec": 2,
+                        "nbclassiq": 11,
+                        "insee": "33063",
+                        "cdate": "2024-05-24T02:21:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5544699,
+                              44.8600699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 98,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 98,
+                        "type": "VLS",
+                        "nom": "Bassins a flot",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 12,
+                        "nbelec": 6,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2024-04-18T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5578009,
+                              44.8578669
+                        ]
+                  },
+                  "properties": {
+                        "gid": 99,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 99,
+                        "type": "VLS",
+                        "nom": "Les Hangars",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 37,
+                        "nbelec": 12,
+                        "nbclassiq": 25,
+                        "insee": "33063",
+                        "cdate": "2024-04-19T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56319,
+                              44.8555999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 100,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 100,
+                        "type": "VLS",
+                        "nom": "Cours du M\u00e9doc",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 34,
+                        "nbvelos": 20,
+                        "nbelec": 2,
+                        "nbclassiq": 18,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57037,
+                              44.8429499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 101,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 101,
+                        "type": "VLS",
+                        "nom": "Place Jean Jaures",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 5,
+                        "nbelec": 4,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56914,
+                              44.8402999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 102,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 102,
+                        "type": "VLS",
+                        "nom": "Place de la Bourse",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 21,
+                        "nbvelos": 19,
+                        "nbelec": 7,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57034,
+                              44.8377899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 103,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 103,
+                        "type": "VLS",
+                        "nom": "Place du Palais",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 24,
+                        "nbelec": 12,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57205,
+                              44.8351799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 104,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 104,
+                        "type": "VLS",
+                        "nom": "Grosse Cloche",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 7,
+                        "nbelec": 3,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57097,
+                              44.8326199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 105,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 105,
+                        "type": "VLS",
+                        "nom": "Rue du Mirail",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 11,
+                        "nbelec": 2,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57321,
+                              44.8306399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 106,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 106,
+                        "type": "VLS",
+                        "nom": "Place de la Victoire",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 30,
+                        "nbvelos": 27,
+                        "nbelec": 12,
+                        "nbclassiq": 15,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57589,
+                              44.8275099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 107,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 107,
+                        "type": "VLS",
+                        "nom": "St Nicolas",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 5,
+                        "nbelec": 5,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5781499,
+                              44.8247099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 108,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 108,
+                        "type": "VLS",
+                        "nom": "Bergoni\u00e9",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 14,
+                        "nbelec": 6,
+                        "nbclassiq": 8,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.58178,
+                              44.8220899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 109,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 109,
+                        "type": "VLS",
+                        "nom": "Barriere St Genes",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 20,
+                        "nbvelos": 16,
+                        "nbelec": 12,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5910299,
+                              44.8123799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 110,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 110,
+                        "type": "VLS",
+                        "nom": "Forum",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 19,
+                        "nbvelos": 20,
+                        "nbelec": 14,
+                        "nbclassiq": 6,
+                        "insee": "33522",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5924499,
+                              44.8068099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 111,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 111,
+                        "type": "VLS",
+                        "nom": "Peixotto",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 18,
+                        "nbvelos": 21,
+                        "nbelec": 8,
+                        "nbclassiq": 13,
+                        "insee": "33522",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6023199,
+                              44.8059099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 112,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 112,
+                        "type": "VLS",
+                        "nom": "Arts et M\u00e9tiers",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 22,
+                        "nbvelos": 16,
+                        "nbelec": 6,
+                        "nbclassiq": 10,
+                        "insee": "33522",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.60547,
+                              44.7931299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 114,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 114,
+                        "type": "VLS",
+                        "nom": "Compostelle",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 13,
+                        "nbelec": 6,
+                        "nbclassiq": 7,
+                        "insee": "33192",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5971532,
+                              44.8013759
+                        ]
+                  },
+                  "properties": {
+                        "gid": 115,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 115,
+                        "type": "VLS",
+                        "nom": "CREPS",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 16,
+                        "nbelec": 11,
+                        "nbclassiq": 5,
+                        "insee": "33522",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6170399,
+                              44.7966699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 116,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 116,
+                        "type": "VLS",
+                        "nom": "Montaigne Montesquieu",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 35,
+                        "nbvelos": 4,
+                        "nbelec": 2,
+                        "nbclassiq": 2,
+                        "insee": "33318",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.60986,
+                              44.8003799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 117,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 117,
+                        "type": "VLS",
+                        "nom": "Doyen Brus",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 14,
+                        "nbelec": 6,
+                        "nbclassiq": 8,
+                        "insee": "33318",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57608,
+                              44.8669399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 118,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 118,
+                        "type": "VLS",
+                        "nom": "Place Ravezies",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 13,
+                        "nbelec": 2,
+                        "nbclassiq": 11,
+                        "insee": "33069",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5757599,
+                              44.8625999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 119,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 119,
+                        "type": "VLS",
+                        "nom": "Grand Parc",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 16,
+                        "nbelec": 7,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5671799,
+                              44.8626099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 120,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 120,
+                        "type": "VLS",
+                        "nom": "St Louis Haussmann",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 18,
+                        "nbelec": 2,
+                        "nbclassiq": 16,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56584,
+                              44.8589099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 121,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 121,
+                        "type": "VLS",
+                        "nom": "Place St Martial",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 10,
+                        "nbelec": 1,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5696599,
+                              44.8584899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 122,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 122,
+                        "type": "VLS",
+                        "nom": "Cours St Louis Medoc",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 11,
+                        "nbelec": 4,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56716,
+                              44.8377899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 123,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 123,
+                        "type": "VLS",
+                        "nom": "Porte de Bourgogne",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 20,
+                        "nbelec": 14,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56139,
+                              44.8313099
+                        ]
+                  },
+                  "properties": {
+                        "gid": 136,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 136,
+                        "type": "VLS",
+                        "nom": "Eglise Ste Croix",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 9,
+                        "nbelec": 4,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.562299,
+                              44.8283269
+                        ]
+                  },
+                  "properties": {
+                        "gid": 137,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 137,
+                        "type": "VLS",
+                        "nom": "Place Andre Meunier",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 18,
+                        "nbelec": 5,
+                        "nbclassiq": 13,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56455,
+                              44.8265599
+                        ]
+                  },
+                  "properties": {
+                        "gid": 138,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 138,
+                        "type": "VLS",
+                        "nom": "Barbey",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 11,
+                        "nbelec": 1,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5627099,
+                              44.8338699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 124,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 124,
+                        "type": "VLS",
+                        "nom": "Parc des Sports",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 16,
+                        "nbelec": 4,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55966,
+                              44.8318299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 125,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 125,
+                        "type": "VLS",
+                        "nom": "Conservatoire",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 24,
+                        "nbelec": 7,
+                        "nbclassiq": 17,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5498299,
+                              44.8266999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 126,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 126,
+                        "type": "VLS",
+                        "nom": "Quai de Paludate",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 10,
+                        "nbelec": 6,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5570699,
+                              44.8262999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 127,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 127,
+                        "type": "VLS",
+                        "nom": "Gare St Jean",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 21,
+                        "nbvelos": 1,
+                        "nbelec": 0,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56308,
+                              44.8221799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 128,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 128,
+                        "type": "VLS",
+                        "nom": "Sacre Coeur",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 8,
+                        "nbelec": 2,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5642,
+                              44.8130799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 129,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 129,
+                        "type": "VLS",
+                        "nom": "Barriere de B\u00e8gles",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 11,
+                        "nbelec": 7,
+                        "nbclassiq": 4,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5705889,
+                              44.8144759
+                        ]
+                  },
+                  "properties": {
+                        "gid": 130,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 130,
+                        "type": "VLS",
+                        "nom": "Barriere de Toulouse",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 10,
+                        "nbelec": 7,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.572205,
+                              44.8202579
+                        ]
+                  },
+                  "properties": {
+                        "gid": 131,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 131,
+                        "type": "VLS",
+                        "nom": "Nansouty",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 16,
+                        "nbelec": 4,
+                        "nbclassiq": 12,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.574862,
+                              44.8073889
+                        ]
+                  },
+                  "properties": {
+                        "gid": 186,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 186,
+                        "type": "VLS",
+                        "nom": "Bagatelle",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 6,
+                        "nbelec": 3,
+                        "nbclassiq": 3,
+                        "insee": "33522",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57248,
+                              44.8262799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 132,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 132,
+                        "type": "VLS",
+                        "nom": "Cours de la Somme",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 2,
+                        "nbelec": 1,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5681199,
+                              44.8299499
+                        ]
+                  },
+                  "properties": {
+                        "gid": 133,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 133,
+                        "type": "VLS",
+                        "nom": "Capucins",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 12,
+                        "nbelec": 7,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5670693,
+                              44.832436
+                        ]
+                  },
+                  "properties": {
+                        "gid": 134,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 134,
+                        "type": "VLS",
+                        "nom": "Place du Maucaillou",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 11,
+                        "nbelec": 8,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.564732,
+                              44.8347969
+                        ]
+                  },
+                  "properties": {
+                        "gid": 135,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 135,
+                        "type": "VLS",
+                        "nom": "Place St Michel",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 12,
+                        "nbelec": 7,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5705239,
+                              44.8243069
+                        ]
+                  },
+                  "properties": {
+                        "gid": 139,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 139,
+                        "type": "VLS",
+                        "nom": "Lycee Bremontier",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 6,
+                        "nbelec": 5,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-04-13T02:21:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6006622,
+                              44.823079
+                        ]
+                  },
+                  "properties": {
+                        "gid": 140,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 140,
+                        "type": "VLS",
+                        "nom": "Charles Perrens",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 7,
+                        "nbelec": 1,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5999189,
+                              44.8188739
+                        ]
+                  },
+                  "properties": {
+                        "gid": 141,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 141,
+                        "type": "VLS",
+                        "nom": "Medoquine",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 7,
+                        "nbelec": 1,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2024-04-13T02:21:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6292359,
+                              44.8394699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 142,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 142,
+                        "type": "VLS",
+                        "nom": "Bourranville",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 19,
+                        "nbelec": 10,
+                        "nbclassiq": 9,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6233409,
+                              44.8580799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 143,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 143,
+                        "type": "VLS",
+                        "nom": "Pins Francs",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 8,
+                        "nbelec": 3,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5850099,
+                              44.8784939
+                        ]
+                  },
+                  "properties": {
+                        "gid": 144,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 144,
+                        "type": "VLS",
+                        "nom": "Jean Moulin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 10,
+                        "nbelec": 7,
+                        "nbclassiq": 3,
+                        "insee": "33075",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5705699,
+                              44.8790399
+                        ]
+                  },
+                  "properties": {
+                        "gid": 145,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 145,
+                        "type": "VLS",
+                        "nom": "Berges du Lac",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 7,
+                        "nbelec": 0,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5677812,
+                              44.8889238
+                        ]
+                  },
+                  "properties": {
+                        "gid": 146,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 146,
+                        "type": "VLS",
+                        "nom": "Palais des Congres",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 23,
+                        "nbvelos": 7,
+                        "nbelec": 4,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5662245,
+                              44.8929694
+                        ]
+                  },
+                  "properties": {
+                        "gid": 147,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 147,
+                        "type": "VLS",
+                        "nom": "Parc des Expositions",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 13,
+                        "nbelec": 10,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.57401,
+                              44.8738899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 96,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 96,
+                        "type": "VLS",
+                        "nom": "Les Aubiers",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 12,
+                        "nbelec": 6,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.560983,
+                              44.8209359
+                        ]
+                  },
+                  "properties": {
+                        "gid": 148,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 148,
+                        "type": "VLS",
+                        "nom": "Am\u00e9d\u00e9e St-Germain",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 8,
+                        "nbelec": 7,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-04-23T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.51783,
+                              44.8788899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 149,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 149,
+                        "type": "VLS",
+                        "nom": "Lauriers",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 9,
+                        "nbelec": 2,
+                        "nbclassiq": 7,
+                        "insee": "33249",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5832899,
+                              44.8548639
+                        ]
+                  },
+                  "properties": {
+                        "gid": 150,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 150,
+                        "type": "VLS",
+                        "nom": "Mandron",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 5,
+                        "nbelec": 2,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-09-05T02:19:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5105319,
+                              44.8456299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 151,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 151,
+                        "type": "VLS",
+                        "nom": "Dravemont",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 3,
+                        "nbelec": 0,
+                        "nbclassiq": 3,
+                        "insee": "33167",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.569953,
+                              44.7996699
+                        ]
+                  },
+                  "properties": {
+                        "gid": 152,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 152,
+                        "type": "VLS",
+                        "nom": "Hopital Robert Picque",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 19,
+                        "nbvelos": 1,
+                        "nbelec": 0,
+                        "nbclassiq": 1,
+                        "insee": "33550",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5816959,
+                              44.7922999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 153,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 153,
+                        "type": "VLS",
+                        "nom": "Parc Sourreil",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 13,
+                        "nbelec": 10,
+                        "nbclassiq": 3,
+                        "insee": "33550",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.591518,
+                              44.7920899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 154,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 154,
+                        "type": "VLS",
+                        "nom": "Thouars",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 8,
+                        "nbvelos": 12,
+                        "nbelec": 3,
+                        "nbclassiq": 9,
+                        "insee": "33522",
+                        "cdate": "2024-04-10T13:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.613107,
+                              44.7914849
+                        ]
+                  },
+                  "properties": {
+                        "gid": 155,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 155,
+                        "type": "VLS",
+                        "nom": "Village 6 IUT",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 11,
+                        "nbelec": 5,
+                        "nbclassiq": 6,
+                        "insee": "33192",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6589114,
+                              44.8443044
+                        ]
+                  },
+                  "properties": {
+                        "gid": 156,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 156,
+                        "type": "VLS",
+                        "nom": "Hotel de Ville Merignac",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 11,
+                        "nbelec": 8,
+                        "nbclassiq": 3,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.659829,
+                              44.8568199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 157,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 157,
+                        "type": "VLS",
+                        "nom": "Les Pins",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 6,
+                        "nbelec": 5,
+                        "nbclassiq": 1,
+                        "insee": "33281",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.561179,
+                              44.8632079
+                        ]
+                  },
+                  "properties": {
+                        "gid": 158,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 158,
+                        "type": "VLS",
+                        "nom": "Place Lewis Brown",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 17,
+                        "nbvelos": 2,
+                        "nbelec": 1,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-08-09T02:19:00+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5825109,
+                              44.8978459
+                        ]
+                  },
+                  "properties": {
+                        "gid": 159,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 159,
+                        "type": "VLS",
+                        "nom": "Camping International",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 8,
+                        "nbelec": 6,
+                        "nbclassiq": 2,
+                        "insee": "33075",
+                        "cdate": "2024-04-10T16:33:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5458789,
+                              44.8737409
+                        ]
+                  },
+                  "properties": {
+                        "gid": 160,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 160,
+                        "type": "VLS",
+                        "nom": "Brandenburg",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 8,
+                        "nbelec": 3,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-04-18T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5680271,
+                              44.8300853
+                        ]
+                  },
+                  "properties": {
+                        "gid": 633,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 633,
+                        "type": "VLS",
+                        "nom": "Ilot Capucins",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 3,
+                        "nbvelos": 2,
+                        "nbelec": 0,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-11-07T09:24:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.551517,
+                              44.7981949
+                        ]
+                  },
+                  "properties": {
+                        "gid": 162,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 162,
+                        "type": "VLS",
+                        "nom": "Gare de Begles",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 6,
+                        "nbelec": 4,
+                        "nbclassiq": 2,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.565509,
+                              44.7856889
+                        ]
+                  },
+                  "properties": {
+                        "gid": 163,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 163,
+                        "type": "VLS",
+                        "nom": "Lycee Vaclav Havel",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 5,
+                        "nbelec": 1,
+                        "nbclassiq": 4,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55645,
+                              44.8395999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 64,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 64,
+                        "type": "VLS",
+                        "nom": "La Benauge",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 18,
+                        "nbvelos": 0,
+                        "nbelec": 0,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2025-01-19T12:12:03+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.598745,
+                              44.8358899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 165,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 165,
+                        "type": "VLS",
+                        "nom": "Barri\u00e8re d\u2019Ar\u00e8s",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 11,
+                        "nbelec": 5,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5652209,
+                              44.8819199
+                        ]
+                  },
+                  "properties": {
+                        "gid": 166,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 166,
+                        "type": "VLS",
+                        "nom": "Centre commercial du Lac",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 8,
+                        "nbelec": 3,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5990752,
+                              44.8392425
+                        ]
+                  },
+                  "properties": {
+                        "gid": 167,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 167,
+                        "type": "VLS",
+                        "nom": "Barri\u00e8re Juda\u00efque",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 4,
+                        "nbelec": 1,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.578664,
+                              44.8646629
+                        ]
+                  },
+                  "properties": {
+                        "gid": 168,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 168,
+                        "type": "VLS",
+                        "nom": "Polyclinique Bordeaux Nord",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 18,
+                        "nbelec": 9,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2024-08-09T02:19:00+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5908097,
+                              44.8723968
+                        ]
+                  },
+                  "properties": {
+                        "gid": 169,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 169,
+                        "type": "VLS",
+                        "nom": "Bruges La Vache",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 5,
+                        "nbelec": 3,
+                        "nbclassiq": 2,
+                        "insee": "33075",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5608429,
+                              44.8661519
+                        ]
+                  },
+                  "properties": {
+                        "gid": 170,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 170,
+                        "type": "VLS",
+                        "nom": "Lucien Faure",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 8,
+                        "nbelec": 3,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5814089,
+                              44.8299299
+                        ]
+                  },
+                  "properties": {
+                        "gid": 171,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 171,
+                        "type": "VLS",
+                        "nom": "Place Amedee Larrieu",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 5,
+                        "nbelec": 1,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5514989,
+                              44.8617799
+                        ]
+                  },
+                  "properties": {
+                        "gid": 172,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 172,
+                        "type": "VLS",
+                        "nom": "La Cite du Vin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 4,
+                        "nbvelos": 23,
+                        "nbelec": 7,
+                        "nbclassiq": 16,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5480999,
+                              44.8674899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 173,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 173,
+                        "type": "VLS",
+                        "nom": "Rue Achard",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 19,
+                        "nbelec": 6,
+                        "nbclassiq": 13,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5624086,
+                              44.8491802
+                        ]
+                  },
+                  "properties": {
+                        "gid": 174,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 174,
+                        "type": "VLS",
+                        "nom": "Darwin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 23,
+                        "nbvelos": 20,
+                        "nbelec": 14,
+                        "nbclassiq": 6,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5316309,
+                              44.8260539
+                        ]
+                  },
+                  "properties": {
+                        "gid": 175,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 175,
+                        "type": "VLS",
+                        "nom": "Arena",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 2,
+                        "nbvelos": 17,
+                        "nbelec": 9,
+                        "nbclassiq": 8,
+                        "insee": "33167",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.556399,
+                              44.8690639
+                        ]
+                  },
+                  "properties": {
+                        "gid": 176,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 176,
+                        "type": "VLS",
+                        "nom": "Musee Mer Marine",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 14,
+                        "nbelec": 4,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55517,
+                              44.8132739
+                        ]
+                  },
+                  "properties": {
+                        "gid": 177,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 177,
+                        "type": "VLS",
+                        "nom": "Cite numerique",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 3,
+                        "nbvelos": 21,
+                        "nbelec": 8,
+                        "nbclassiq": 13,
+                        "insee": "33039",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.537826,
+                              44.8540039
+                        ]
+                  },
+                  "properties": {
+                        "gid": 178,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 178,
+                        "type": "VLS",
+                        "nom": "Jean Jaures",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 7,
+                        "nbvelos": 12,
+                        "nbelec": 7,
+                        "nbclassiq": 5,
+                        "insee": "33119",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.587664,
+                              44.8473999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 179,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 179,
+                        "type": "VLS",
+                        "nom": "Rue Paulin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 11,
+                        "nbvelos": 12,
+                        "nbelec": 2,
+                        "nbclassiq": 10,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.613641,
+                              44.8707979
+                        ]
+                  },
+                  "properties": {
+                        "gid": 180,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 180,
+                        "type": "VLS",
+                        "nom": "Sainte-Germaine",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 9,
+                        "nbvelos": 11,
+                        "nbelec": 7,
+                        "nbclassiq": 4,
+                        "insee": "33069",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6277269,
+                              44.8424219
+                        ]
+                  },
+                  "properties": {
+                        "gid": 192,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 192,
+                        "type": "VLS",
+                        "nom": "Gare de Caud\u00e9ran",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 14,
+                        "nbelec": 10,
+                        "nbclassiq": 4,
+                        "insee": "33063",
+                        "cdate": "2024-12-03T15:13:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.629383,
+                              44.8738049
+                        ]
+                  },
+                  "properties": {
+                        "gid": 182,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 182,
+                        "type": "VLS",
+                        "nom": "Hippodrome",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33069",
+                        "cdate": "2024-04-10T14:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5537959,
+                              44.8753349
+                        ]
+                  },
+                  "properties": {
+                        "gid": 183,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 183,
+                        "type": "VLS",
+                        "nom": "Place Maran",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 16,
+                        "nbvelos": 4,
+                        "nbelec": 2,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-04-17T02:19:03+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5342929,
+                              44.8779049
+                        ]
+                  },
+                  "properties": {
+                        "gid": 184,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 184,
+                        "type": "VLS",
+                        "nom": "Lormont bas",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 5,
+                        "nbelec": 0,
+                        "nbclassiq": 5,
+                        "insee": "33249",
+                        "cdate": "2011-01-01T00:00:00+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5983719,
+                              44.8464999
+                        ]
+                  },
+                  "properties": {
+                        "gid": 188,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 188,
+                        "type": "VLS",
+                        "nom": "Ecole Normale",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 13,
+                        "nbvelos": 5,
+                        "nbelec": 3,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-04-23T02:20:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5568139,
+                              44.8374529
+                        ]
+                  },
+                  "properties": {
+                        "gid": 91,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 91,
+                        "type": "VLS",
+                        "nom": "France Travail Bastide",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 10,
+                        "nbvelos": 10,
+                        "nbelec": 3,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-10-29T14:32:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.554574,
+                              44.8232849
+                        ]
+                  },
+                  "properties": {
+                        "gid": 251,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 251,
+                        "type": "VLS",
+                        "nom": "Belcier Gare",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 30,
+                        "nbvelos": 10,
+                        "nbelec": 1,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2024-04-10T15:32:01+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5822489,
+                              44.8358619
+                        ]
+                  },
+                  "properties": {
+                        "gid": 507,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 507,
+                        "type": "VLS",
+                        "nom": "Ilot Palais de justice",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 6,
+                        "nbvelos": 4,
+                        "nbelec": 2,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-08-29T02:19:00+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.570166,
+                              44.8501359
+                        ]
+                  },
+                  "properties": {
+                        "gid": 559,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 559,
+                        "type": "VLS",
+                        "nom": "Ilot CAPC",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 2,
+                        "nbvelos": 3,
+                        "nbelec": 0,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5648459,
+                              44.8461519
+                        ]
+                  },
+                  "properties": {
+                        "gid": 561,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 561,
+                        "type": "VLS",
+                        "nom": "Ilot Parc aux Ang\u00e9liques",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 2,
+                        "nbvelos": 3,
+                        "nbelec": 1,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5574399,
+                              44.8438559
+                        ]
+                  },
+                  "properties": {
+                        "gid": 567,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 567,
+                        "type": "VLS",
+                        "nom": "Ilot All\u00e9e de Serr Abadie",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 5,
+                        "nbvelos": 0,
+                        "nbelec": 0,
+                        "nbclassiq": 0,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5542829,
+                              44.8601489
+                        ]
+                  },
+                  "properties": {
+                        "gid": 598,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 598,
+                        "type": "VLS",
+                        "nom": "Ilot Bassins \u00e0 Flot",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 1,
+                        "nbvelos": 4,
+                        "nbelec": 2,
+                        "nbclassiq": 2,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.571034,
+                              44.8326139
+                        ]
+                  },
+                  "properties": {
+                        "gid": 605,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 605,
+                        "type": "VLS",
+                        "nom": "Ilot Rue du Mirail",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 4,
+                        "nbvelos": 1,
+                        "nbelec": 0,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5570409,
+                              44.8262019
+                        ]
+                  },
+                  "properties": {
+                        "gid": 627,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 627,
+                        "type": "VLS",
+                        "nom": "Ilot Gare St-Jean",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 14,
+                        "nbvelos": 6,
+                        "nbelec": 1,
+                        "nbclassiq": 5,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.55157,
+                              44.8617149
+                        ]
+                  },
+                  "properties": {
+                        "gid": 672,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 672,
+                        "type": "VLS",
+                        "nom": "Ilot Cit\u00e9 du Vin",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 9,
+                        "nbelec": 2,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-07-27T02:59:14+02:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5642254,
+                              44.813198
+                        ]
+                  },
+                  "properties": {
+                        "gid": 629,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 629,
+                        "type": "VLS",
+                        "nom": "Ilot Barri\u00e8re de B\u00e8gles",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 4,
+                        "nbvelos": 1,
+                        "nbelec": 0,
+                        "nbclassiq": 1,
+                        "insee": "33039",
+                        "cdate": "2024-11-07T09:27:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.60529,
+                              44.8662139
+                        ]
+                  },
+                  "properties": {
+                        "gid": 181,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 181,
+                        "type": "VLS",
+                        "nom": "Mairie du Bouscat",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 12,
+                        "nbvelos": 8,
+                        "nbelec": 1,
+                        "nbclassiq": 7,
+                        "insee": "33069",
+                        "cdate": "2024-12-03T15:03:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.56634,
+                              44.8693729
+                        ]
+                  },
+                  "properties": {
+                        "gid": 185,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 185,
+                        "type": "VLS",
+                        "nom": "Place Latule",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 5,
+                        "nbvelos": 14,
+                        "nbelec": 7,
+                        "nbclassiq": 7,
+                        "insee": "33063",
+                        "cdate": "2024-12-03T11:31:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.581078,
+                              44.8408739
+                        ]
+                  },
+                  "properties": {
+                        "gid": 505,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 505,
+                        "type": "VLS",
+                        "nom": "Ilot Place Gambetta",
+                        "etat": "MAINTENANCE",
+                        "nbplaces": 1,
+                        "nbvelos": 4,
+                        "nbelec": 1,
+                        "nbclassiq": 3,
+                        "insee": "33063",
+                        "cdate": "2025-01-30T15:03:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5755099,
+                              44.8170569
+                        ]
+                  },
+                  "properties": {
+                        "gid": 164,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 164,
+                        "type": "VLS",
+                        "nom": "Pont de Caud\u00e9r\u00e8s",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 6,
+                        "nbvelos": 13,
+                        "nbelec": 4,
+                        "nbclassiq": 9,
+                        "insee": "33063",
+                        "cdate": "2025-01-30T15:33:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6421959,
+                              44.8610569
+                        ]
+                  },
+                  "properties": {
+                        "gid": 200,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 200,
+                        "type": "VLS",
+                        "nom": "Grand Louis",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 15,
+                        "nbvelos": 1,
+                        "nbelec": 1,
+                        "nbclassiq": 0,
+                        "insee": "33281",
+                        "cdate": "2025-01-30T15:33:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.6341479,
+                              44.8603229
+                        ]
+                  },
+                  "properties": {
+                        "gid": 206,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 206,
+                        "type": "VLS",
+                        "nom": "Caillou",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 14,
+                        "nbvelos": 6,
+                        "nbelec": 5,
+                        "nbclassiq": 1,
+                        "insee": "33063",
+                        "cdate": "2025-01-30T15:33:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -0.5816599,
+                              44.8377899
+                        ]
+                  },
+                  "properties": {
+                        "gid": 6,
+                        "geom_o": 0,
+                        "geom_err": null,
+                        "ident": 6,
+                        "type": "VLS",
+                        "nom": "Square Andre Lhote",
+                        "etat": "CONNECTEE",
+                        "nbplaces": 1,
+                        "nbvelos": 39,
+                        "nbelec": 10,
+                        "nbclassiq": 29,
+                        "insee": "33063",
+                        "cdate": "2025-02-18T11:12:01+01:00",
+                        "mdate": "2025-02-20T11:19:00+01:00"
+                  }
+            }
+      ]
+}
