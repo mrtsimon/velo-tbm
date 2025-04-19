@@ -1,4 +1,6 @@
-venv/*
+venv
+.env
 stations_velo.db
-meteo.db
-
+*.db
+*.log
+*.json
