@@ -294,15 +294,8 @@ with chat_col:
     # Affichage des messages dans une zone scrollable
     scrollable_height = 400
     chat_scroll_id = "chat-scrollable-container"
-    st.markdown(
-        f'''<div id="{chat_scroll_id}" style="height: {scrollable_height}px; overflow-y: auto; border: 1px solid #eee; border-radius: 10px; padding: 8px; background: #fafbfc; display: flex; flex-direction: column-reverse;">''',
-        unsafe_allow_html=True
-    )
-    # Affiche les messages du plus récent au plus ancien pour que le scroll soit en bas
-    for message in reversed(st.session_state['messages']):
-        with st.chat_message(message['role'], avatar=("👤" if message['role']=="user" else "🚲")):
-            st.markdown(message['content'])
-    st.markdown("</div>", unsafe_allow_html=True)
+    
+
     # Barre d'entrée du chat (toujours en bas)
     if prompt := st.chat_input("Posez une question sur les données affichées..."):
         st.session_state['messages'].append({"role": "user", "content": prompt})
