@@ -20,11 +20,11 @@ for features in resultats["features"]:
     date = features["properties"]["mdate"]
         
     cur.execute(f"""
-    INSERT INTO velos (sation_id, nb_classiq, nb_elec, nb_total, nb_places, capacite, etat, date) 
+    INSERT INTO velos (station_id, nb_classiq, nb_elec, nb_total, nb_places, capacite, etat, date) 
     VALUES ({id}, {nb_classiq}, {nb_elec}, {nb_total}, {nb_places}, {capacite}, "{etat}", "{date}")
     """)
     
-print(f'[{date}')
+print(f'Collector executé avec succès : {date}')
     
 con.commit()
 con.close()
