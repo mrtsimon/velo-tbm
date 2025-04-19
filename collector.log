@@ -20208,6 +20208,7 @@ Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
 Collector executé avec succès : 2025-04-19T20:20:00+02:00, 194 stations ajoutées
 Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
 Collector executé avec succès : 2025-04-19T20:23:00+02:00, 194 stations ajoutées
+<<<<<<< HEAD
   File "/home/simon/velo-tbm/collector.py", line 74
     >>>>>>> 90224cf (Initial commit: Configuration du projet Vélo TBM)
                 ^
@@ -20216,3 +20217,21 @@ Traceback (most recent call last):
   File "/home/simon/velo-tbm/collector.py", line 22, in <module>
     cur.execute(f"""
 sqlite3.OperationalError: no such table: velos
+=======
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T20:56:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T20:59:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:01:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:01:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:04:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:06:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:09:00+02:00, 194 stations ajoutées
+Connexion à la base de données: /home/simon/velo-tbm/stations_velo.db
+Collector executé avec succès : 2025-04-19T21:11:00+02:00, 194 stations ajoutées
+>>>>>>> 476b374 (Fusion)
