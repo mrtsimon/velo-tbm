@@ -1,1 +1,4 @@
 venv/*
+stations_velo.db
+meteo.db
+

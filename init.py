@@ -19,6 +19,7 @@ cur.execute("""
     CREATE TABLE IF NOT EXISTS velos (
     ID PRIMARY KEY,
     SATION_ID INTEGER,
+
     nb_classiq INTEGER,
     nb_elec INTEGER,
     nb_total INTEGER,
@@ -27,6 +28,7 @@ cur.execute("""
     etat TEXT,
     date TEXT,
     FOREIGN KEY(ID) REFERENCES stations(ID)
+
 );
 """)
 
